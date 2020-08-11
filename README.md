@@ -70,7 +70,7 @@ We are going to use a sample schema given to use by MySQL.
 
 1. What is the relationship between the "actor" and "film_actor" tables?
 
-
+    actor_id
 
 2. What does the blue diamond next to the "last_update" column on the "inventory" table represent?
 
